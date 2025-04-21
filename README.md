@@ -38,7 +38,7 @@ Our online nursery website offers a comprehensive platform for purchasing your f
 1. **Clone the repository**:
 
    ```sh
-   https://github.com/kazirauf/pure-planet-server
+   https://github.com/kazirahat89/pure-planet-server
    ```
 
 2. **Install dependencies**:
